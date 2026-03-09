@@ -1417,4 +1417,3 @@ end)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Cat558-uz/CmdY/refs/heads/main/Fu5kSkiders"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Cat558-uz/LugBrook/refs/heads/main/Log"))()
